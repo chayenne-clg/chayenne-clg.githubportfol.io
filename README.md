@@ -6,7 +6,7 @@ Le portfolio que vous consulté actuellement est également l'un de mes projets,
 
 ## Aperçu 
 
-
+![description](images/portfolio.jpeg)
 
 ## Fonctionnalités et contenus
 
