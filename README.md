@@ -2,7 +2,7 @@
 
 ## Description
 
-Le portfolio que vous consulté actuellement est également l'un de mes projets, développé à l'aide d'une template HTML, Visual Studio Code et GitHub. Il me permet de présenter mes projets, mes certifications, mes compétences et mon parcours.
+Portfolio consultable en ligne, développé à l'aide d'une template HTML, Visual Studio Code et GitHub. Il me permet de présenter mes projets, mes certifications, mes compétences et mon parcours.
 
 ## Aperçu 
 
